@@ -1,0 +1,15 @@
+{
+  "name": "package-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "my-hello-lib"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "my-hello-lib": "github:code-yy/my-hello-lib"
+  }
+}
